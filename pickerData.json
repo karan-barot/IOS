@@ -1,3 +1,23 @@
 {
-  
+  "name":"karan barot"
+  "data":
+  [{
+      "location" : "Balcony Level",
+      "Seats":25,
+      "Price":1170,
+
+  },
+  {
+      "location" : "Lower Level",
+      "Seats":40,
+      "Price":10434,
+
+  },
+  {
+      "location" : "Court Side",
+      "Seats":30,
+      "Price":27777,
+
+  }
+  ]
 }
